@@ -1,11 +1,10 @@
 <img src="assets/banner.gif" width="100%" alt="Bassam Ahmed — Data Engineer" />
 
-<img src="assets/card.png" width="100%" alt="Bassam Ahmed Abdelmoneim — Data Engineer · Big Data · Cairo, Egypt" />
+<img src="assets/card.gif" width="100%" alt="Bassam Ahmed Abdelmoneim — Data Engineer · Big Data · Cairo, Egypt" />
 
 <p align="center">
   <a href="mailto:bassaam529@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/bassamahmed144/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="assets/Bassam-Ahmed-CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-238636?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV" /></a>
 </p>
 
 <p align="center">
