@@ -1,17 +1,28 @@
 <img src="assets/banner.gif" width="100%" alt="Bassam Ahmed — Data Engineer" />
 
-<img src="assets/card.gif" width="100%" alt="Bassam Ahmed Abdelmoneim — Data Engineer · Big Data · Cairo, Egypt" />
+<img src="assets/hello.gif" width="100%" alt="Welcome to my profile — nice to meet you. Data Engineer · Big Data Engineer · Cairo, Egypt" />
+
+<img src="assets/card.gif" width="100%" alt="Bassam Ahmed Abdelmoneim — pipeline, stats and toolbox" />
 
 <p align="center">
-  <a href="mailto:bassaam529@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/bassamahmed144/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bassaam529@gmail.com"><img src="assets/btn-gmail.png" height="38" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/bassamahmed144/"><img src="assets/btn-linkedin.png" height="38" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/Bassam226-pixel"><img src="assets/btn-github.png" height="38" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://wa.me/201093251475"><img src="assets/btn-whatsapp.png" height="38" alt="WhatsApp" /></a>
+  &nbsp;
+  <a href="assets/Bassam-Ahmed-CV.pdf"><img src="assets/btn-cv.png" height="38" alt="Download CV" /></a>
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bassam226-pixel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8EE6F5&icon_color=7EE787" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassam226-pixel&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8EE6F5" alt="Top languages" />
-</p>
+## About me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bassam226-pixel&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8EE6F5&fire=7EE787" alt="Streak" />
-</p>
+- ✔️ Building end-to-end streaming pipelines with **Kafka, Spark, Flink and Airflow**
+- ✔️ Deepening my **AWS + Databricks** work on real datasets
+- ✔️ Happy to collaborate on any **open-source Big Data** project
+- ✔️ Currently **open to Data Engineering roles** — say hi, I reply to everyone
+
+---
+
+<p align="center"><i>“Data is only as good as the pipeline that carries it.”</i></p>
