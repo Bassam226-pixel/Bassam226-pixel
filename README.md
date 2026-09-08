@@ -18,10 +18,12 @@
 
 ## About me
 
-- ✔️ Building end-to-end streaming pipelines with **Kafka, Spark, Flink and Airflow**
-- ✔️ Deepening my **AWS + Databricks** work on real datasets
-- ✔️ Happy to collaborate on any **open-source Big Data** project
-- ✔️ Currently **open to Data Engineering roles** — say hi, I reply to everyone
+- 🌱 Still learning every week — right now **Databricks, AWS data services and Spark internals**
+- 🛠️ Building end-to-end pipelines with **Kafka, Spark, Flink and Airflow**, shipped with **Docker + CI/CD**
+- 📚 Working on myself: advanced **SQL tuning**, cleaner **data modeling**, better testing for pipelines
+- 🧰 Tools I reach for daily: **Python · SQL · PySpark · Airflow · PostgreSQL · Power BI**
+- 🤝 Happy to collaborate on any **open-source Big Data** project
+- 💬 Ask me anything about pipelines, ETL or warehousing — I reply to everyone
 
 ---
 
